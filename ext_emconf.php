@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'description' => 'Offers the possibility to maintain the fe_user data in frontend by the user self.',
 	'category' => 'Sebastian Fischer',
 	'shy' => 0,
-	'version' => '1.4.0',
+	'version' => '1.6.0',
 	'dependencies' => 'extbase,fluid',
 	'conflicts' => '',
 	'priority' => 'bottom',
@@ -35,7 +35,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'constraints' => array(
 		'depends' => array(
 			'php' => '5.3.0-0.0.0',
-			'typo3' => '4.6.0-0.0.0',
+			'typo3' => '4.7.0-0.0.0',
 			'extbase' => '1.4.0-0.0.0',
 			'fluid' => '1.4.0-0.0.0',
 		),
