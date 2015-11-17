@@ -1,0 +1,13 @@
+This project has been migrated to github.
+
+You can now find it at:
+
+https://github.com/evoWeb/sf_register
+
+The svn sources have been removed but prior svn history is still available.
+In the rare cases you still need svn you can can specify the latest production
+revision with 'git checkout $git_rev_no'.
+
+git checkout f22291e30f6b4009da7c4b4361d8058f1e31d0b7
+
+Your sf_register team
